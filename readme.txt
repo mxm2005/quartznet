@@ -1,5 +1,6 @@
 QUARTZ JOB SCHEDULER .NET, 2.3.3, Jul 9, 2015
 -----------------------------------------------------------------
+Quartz.NET是一个开源的作业调度框架。 是Java开源改成.net版本的。
 
 http://www.quartz-scheduler.net/
 
